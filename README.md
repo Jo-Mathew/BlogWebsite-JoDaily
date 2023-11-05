@@ -1,4 +1,4 @@
 # BlogWebsite-JoDaily
-My first upload on github
+Welcome to my very first repository that i created on github
 <br>
 This is a single page website created using HTML and CSS
